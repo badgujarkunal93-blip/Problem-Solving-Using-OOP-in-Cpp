@@ -6,7 +6,7 @@ A collection of C++ programs demonstrating core Object-Oriented Programming (OOP
 
 | No. | Topic | Source Code |
 |---:|---|---|
-| 1 | Classes, Objects, Constructors and Destructors | [View Code](practicals/01_student_class.cpp) |
+| 1 | Classes, Objects, Constructors and Destructors | [View Code](assignments/01_student_class.cpp) |
 | 2 | Default, Parameterized and Copy Constructors | [View Code](assignments/02_constructors.cpp) |
 | 3 | Operator Overloading | [View Code](assignments/03_operator_overloading.cpp) |
 | 5 | Inline Functions, `this` Pointer, Static Members and Friend Class | [View Code](assignments/05_member_functions_and_friend.cpp) |
@@ -22,6 +22,7 @@ A collection of C++ programs demonstrating core Object-Oriented Programming (OOP
 ```text
 Problem-Solving-Using-OOP-in-Cpp/
 ├── assignments/
+│   ├── 01_student_class.cpp
 │   ├── 02_constructors.cpp
 │   ├── 03_operator_overloading.cpp
 │   ├── 05_member_functions_and_friend.cpp
@@ -31,8 +32,6 @@ Problem-Solving-Using-OOP-in-Cpp/
 │   ├── 09_move_semantics.cpp
 │   ├── 10_templates.cpp
 │   └── 12_type_casting.cpp
-├── practicals/
-│   └── 01_student_class.cpp
 └── README.md
 ```
 
